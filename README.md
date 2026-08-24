@@ -4,7 +4,7 @@
 
 ### Computer Science + AI student building at the intersection of software, data and financial markets.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=6F42C1&center=true&vCenter=true&width=750&lines=Software+Engineering+%7C+AI+%7C+Financial+Technology;Building+Technology+for+Banking+and+Markets;Curious+Mind.+Ambitious+Ideas.+Practical+Solutions." alt="Typing introduction">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6F42C1&center=true&vCenter=true&width=720&lines=Software+Engineering+%7C+AI+%7C+Financial+Technology;Building+Technology+for+Banking+and+Markets;Curious+Mind.+Ambitious+Ideas.+Practical+Solutions." alt="Typing introduction">
 
 <br>
 
@@ -14,6 +14,7 @@
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-Enquiries-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eaintswe@outlook.com)
 
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=freyabytes&label=Profile+Views&color=6f42c1&style=flat-square" alt="Profile views">
 
@@ -25,11 +26,9 @@
 
 I am a **Computer Science with Artificial Intelligence student at the University of Nottingham**, currently working towards a First-Class degree.
 
-I enjoy turning complex, real-world problems into practical software. So far, I have analysed more than **220,000 pricing records**, led the development of an AI career platform in **five hours**, automated multi-stage financial-reporting workflows and developed C++ software for autonomous vehicle path tracking.
+I enjoy turning complex problems into practical software. So far, I have analysed more than **220,000 pricing records**, led the development of an AI platform in **five hours**, automated multi-stage reporting workflows and developed C++ software for autonomous vehicle path tracking.
 
-I am particularly interested in the technology behind banking and financial markets: how data moves through interconnected systems, how trades and payments are processed, how exceptions are controlled and how software remains reliable when speed and accuracy matter.
-
-Alongside strengthening my engineering skills, I am building my commercial awareness across financial products, markets, banking operations and risk.
+I am particularly interested in how technology supports banks and financial markets: how data moves through interconnected systems, how trades and payments are processed, and how software remains reliable when speed, accuracy and control matter.
 
 <table>
 <tr>
@@ -53,27 +52,12 @@ Alongside strengthening my engineering skills, I am building my commercial aware
 - Algorithms and system design
 - Banking and financial markets
 - Equities and Fixed Income
-- Financial technology
+- Financial data and automation
 - Commercial awareness
 
 </td>
 </tr>
 </table>
-
----
-
-## 🌏 My Journey So Far
-
-My interest in financial technology has developed through experiences across banking, software engineering, data and robotics.
-
-- 🏦 Followed front-to-back **Equities and Fixed Income** technology workflows during the Morgan Stanley Spring Technology Programme
-- 💳 Examined payment validation, foreign-exchange controls and reporting pipelines during a Technology and Operations internship at CB Bank PCL in Yangon
-- 🌍 Led a **five-person team** at the Microsoft EMBRACE Midlands Regional Hackathon
-- 📊 Analysed more than **220,000 rows** of commercial-pricing data during a Practera microplacement
-- 🏎️ Developed C++ path-tracking software for an autonomous Formula Student vehicle
-- 💰 Manage budgeting, funding and sponsorship activity as Treasurer of the University of Nottingham Robotics Society
-
-These experiences have shown me that strong financial systems require more than good code. They also depend on reliable data, effective controls, commercial understanding and clear communication between technical and business teams.
 
 ---
 
@@ -85,28 +69,22 @@ These experiences have shown me that strong financial systems require more than 
 
 ### 🌍 MuchoMundo
 
-AI-enabled career platform helping international students research visa sponsorship, employers, applications and interviews.
+AI career platform helping international students navigate sponsorship, employer research and applications.
 
-- Built by a **five-person team**
-- Delivered within a **five-hour sprint**
-- Coordinated **three workstreams**
-- Integrated Azure OpenAI and Azure Functions
-- Reached the **top four Midlands finalists**
+- Led a **five-person team** to deliver an MVP in **five hours**
+- Placed among the **top four Midlands regional finalists**
 
-**Stack:** JavaScript · Azure Functions · Azure OpenAI · REST APIs · JSON
+**Stack:** JavaScript · Azure Functions · Azure OpenAI · REST APIs
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 UK Pricing Analysis (Practera Microplacement)
+### 📊 UK Pricing Analysis
 
-Python analysis completed for a grocery AI start-up through a Practera microplacement.
+Python pricing analysis completed for a grocery AI start-up through a Practera microplacement.
 
-- Processed **220,000+ pricing records**
-- Tested **three commercial hypotheses**
-- Identified **14.5% potential average overspend**
-- Applied ADF and autocorrelation testing
-- Received a **Practera cohort award**
+- Analysed **220,000+ records** across **three commercial hypotheses**
+- Identified **14.5% potential average overspend** and received a cohort award
 
 **Stack:** Python · pandas · NumPy · Matplotlib · Time Series
 
@@ -118,13 +96,10 @@ Python analysis completed for a grocery AI start-up through a Practera microplac
 
 ### 🏎️ Autonomous Path Tracking
 
-C++ path-tracking controller developed for the NottsAiR Formula Student autonomous vehicle.
+C++ Pure Pursuit controller developed for the NottsAiR Formula Student autonomous vehicle.
 
-- Improved stability by approximately **30%**
-- Improved smoothness by approximately **20%**
-- Maintained latency below **50 ms**
-- Integrated with **two technical teams**
-- Supported preparation for Silverstone
+- Improved stability by approximately **30%** and smoothness by **20%**
+- Maintained controller latency below **50 milliseconds**
 
 **Stack:** C++ · Linux · Git · Pure Pursuit · Telemetry
 
@@ -133,13 +108,10 @@ C++ path-tracking controller developed for the NottsAiR Formula Student autonomo
 
 ### 📈 [Portfolio Risk Analysis](https://github.com/freyabytes/portfolio-performance-analysis)
 
-Reproducible workflow for analysing portfolio performance and financial risk.
+Reproducible Python workflow for analysing portfolio performance and financial risk.
 
-- Built **one end-to-end pipeline**
-- Covered **five analytical areas**
-- Automated historical market-data collection
-- Analysed returns, volatility and drawdowns
-- Documented assumptions and limitations
+- Covered **five areas** including returns, volatility and drawdowns
+- Built **one end-to-end pipeline** from market-data collection to visualisation
 
 **Stack:** Python · pandas · yfinance · PyFolio · Matplotlib
 
@@ -149,48 +121,26 @@ Reproducible workflow for analysing portfolio performance and financial risk.
 <tr>
 <td width="50%" valign="top">
 
-### 📑 [Excel Report Automation](https://github.com/freyabytes/excel-sales-report-automation)
+### 📉 [Stock & Revenue Analysis](https://github.com/freyabytes/stock-revenue-analysis)
 
-Python application converting raw transactions into monthly Excel reports.
+Compared Tesla and GameStop using historical market and quarterly revenue data.
 
-- Automated a **five-stage workflow**
-- Covered **two reporting dimensions**
-- Handled **three failure scenarios**
-- Generated tables, formulas and charts
-- Created traceable timestamped exports
+- Integrated **four datasets** using **two collection methods**
+- Analysed **19 years** of stock data and **110+ revenue observations**
 
-**Stack:** Python · pandas · XlsxWriter · openpyxl · Excel
+**Stack:** Python · pandas · yfinance · BeautifulSoup · Matplotlib
 
 </td>
 <td width="50%" valign="top">
 
-<tr>
-<td colspan="2" valign="top">
+### 📑 [Excel Report Automation](https://github.com/freyabytes/excel-sales-report-automation)
 
-### 📉 [Tesla & GameStop Stock–Revenue Analysis](https://github.com/freyabytes/stock-revenue-analysis)
+Python application converting raw transactions into presentation-ready monthly reports.
 
-Built an end-to-end Python workflow comparing the market performance and quarterly revenues of **two publicly listed companies**.
+- Automated a **five-stage reporting workflow**
+- Handled **three failure scenarios** and produced traceable exports
 
-- Integrated **four financial datasets**: historical share prices and quarterly revenues for Tesla and GameStop
-- Combined **two collection methods**, retrieving market data through `yfinance` and scraping revenue tables with Requests and BeautifulSoup
-- Analysed Tesla stock data from **2010–2021** and GameStop stock data from **2002–2021**
-- Processed **seven market fields** including open, high, low, close, volume, dividends and stock splits
-- Cleaned and structured more than **110 quarterly revenue observations** using pandas and regular expressions
-- Produced **four visualisations** comparing share-price and revenue trends across both companies
-
-**Stack:** Python · Jupyter Notebook · pandas · yfinance · BeautifulSoup · Requests · Matplotlib · Regex
-
-### 🛡️ SentinelPay | In Development
-
-Payment-risk platform exploring automated controls and explainable transaction monitoring.
-
-- Designing **three core capabilities**
-- Building transaction-monitoring logic
-- Developing automated exception handling
-- Exploring explainable risk signals
-- Structuring traceable system outputs
-
-**Focus:** Payments · Risk · Python · APIs · Data Validation
+**Stack:** Python · pandas · XlsxWriter · openpyxl · Excel
 
 </td>
 </tr>
@@ -198,37 +148,15 @@ Payment-risk platform exploring automated controls and explainable transaction m
 
 ---
 
-## 💻 Languages Ranked by Proficiency
+## 💻 Languages by Proficiency
 
-### 1. Python — Most Proficient
+<div align="center">
 
-My main language for data analysis, financial projects, automation and rapid prototyping.
+### Python → C++ → Java → JavaScript → SQL → TypeScript → C → Haskell
 
-`pandas` · `NumPy` · `Matplotlib` · APIs · ETL · statistical analysis · OOP
+</div>
 
-### 2. C++
-
-Used for algorithms, technical problem-solving, robotics and performance-focused development.
-
-`data structures` · `OOP` · `Pure Pursuit` · `telemetry` · `low-latency systems`
-
-### 3. Java
-
-Used for university software development and strengthening my understanding of structured application design.
-
-`OOP` · `data structures` · `software design` · `application development`
-
-### Additional Languages
-
-- **JavaScript:** asynchronous programming, APIs, JSON and frontend-backend integration
-- **SQL:** joins, aggregations, CTEs, window functions and relational modelling
-- **TypeScript:** typed application development and API integration
-- **C:** procedural programming, memory fundamentals and low-level problem-solving
-- **Haskell:** functional programming, recursion and pattern matching
-
----
-
-## 🧰 Technology Stack
+My strongest language is **Python**, which I use for data analysis, financial projects, automation and APIs. I use **C++** for robotics and performance-focused development, while Java supports my object-oriented software-development foundations.
 
 <div align="center">
 
@@ -244,83 +172,34 @@ Used for university software development and strengthening my understanding of s
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
-### Data and AI
+### Data, Cloud and Tools
 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Development and Cloud
-
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web_Scraping-59666C?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎯 Career Direction
+## 🎯 Where I’m Heading
 
-I aim to build a career in **technology and engineering within banking and financial markets**.
+I aim to build a career in **technology and engineering within banking and financial markets**, particularly across trading systems, payment infrastructure, financial data and intelligent automation.
 
-I am particularly interested in developing the systems financial institutions rely on to process trades and payments, manage data, automate decisions and control risk. My strongest areas of interest are:
+I am currently:
 
-- Trading and market-data systems
-- Payment and transaction infrastructure
-- Financial data and intelligent automation
-- Quantitative and analytical tools
-- Operationally resilient technology
-
-I am currently exploring software engineering, financial technology, quantitative development and data engineering opportunities where I can combine technical problem-solving with meaningful exposure to financial products and commercial decisions.
+- Strengthening my Python, C++ and system-design skills
+- Building commercial awareness across Equities, Fixed Income and payments
+- Exploring how technology, operations and risk interact within financial institutions
 
 My goal is to understand not only **how a system works**, but also **why the institution needs it, how it creates value and what risks it must control**.
-
----
-
-## 🌱 What I’m Working On
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 💻 Technical Depth
-
-Python and C++  
-Algorithms  
-Data structures  
-System design  
-Production-quality code
-
-</td>
-<td width="33%" align="center">
-
-### 📈 Commercial Awareness
-
-Equities  
-Fixed Income  
-Payments  
-Banking products  
-Market developments
-
-</td>
-<td width="33%" align="center">
-
-### 🔗 Connecting Both
-
-Trading technology  
-Financial data  
-Automation  
-Risk and controls  
-Market infrastructure
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -336,10 +215,10 @@ Market infrastructure
 - **Introduction to Corporate Finance** — University of Pennsylvania
 - **Excel Skills for Business: Essentials** — Macquarie University
 - **Goldman Sachs Internal Audit Job Simulation** — Forage
-- **EY Audit Job Simulation** — Forage
 - **EY Technology Risk Job Simulation** — Forage
+- **EY Audit Job Simulation** — Forage
 
-### Data, Technology and AI
+### Data and Technology
 
 - **Python Project for Data Science** — IBM
 - **What Is Data Science?** — IBM
@@ -347,7 +226,7 @@ Market infrastructure
 - **Network Architecture** — Google
 - **IBM Dev Day: AI Demystified**
 
-### Programmes and Competitions
+### Competitions and Programmes
 
 - **Microsoft EMBRACE Midlands Regional Hackathon**
 - **Practera Microplacement Project**
@@ -359,13 +238,15 @@ Market infrastructure
 
 ## ✨ Beyond the Code
 
-- 💰 I am the **Treasurer of the University of Nottingham Robotics Society**, supporting budgeting, funding requests, sponsorship outreach and competition planning for a society of more than **150 members**
-- 📊 I genuinely enjoy **mathematics, particularly statistics**, and like using quantitative thinking to understand patterns, uncertainty and real-world decisions
-- 🏸 Away from my laptop, I enjoy playing **badminton with my friends** although friendly matches can become surprisingly competitive
+- 💰 I am the **Treasurer of the University of Nottingham Robotics Society**, supporting budgeting, sponsorship and competition planning for more than **150 members**
+- 📊 I enjoy **mathematics, particularly statistics**, and using quantitative thinking to understand patterns and uncertainty
+- 🏸 Away from my laptop, I enjoy playing **badminton with my friends**, although friendly matches can become surprisingly competitive
+- 🤖 I enjoy combining software with robotics and practical engineering
 - 🌍 I speak **English, Burmese and intermediate Spanish**
-- 📈 I regularly explore financial markets, politics and emerging technology
 - 🐛 My debugging process begins with logic and occasionally ends with questioning reality
+
 ---
+
 <div align="center">
 
 <h2>🤝 Let’s Build Something Interesting</h2>
