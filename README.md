@@ -67,7 +67,7 @@ Alongside strengthening my engineering skills, I am building my commercial aware
 My interest in financial technology has developed through experiences across banking, software engineering, data and robotics.
 
 - 🏦 Followed front-to-back **Equities and Fixed Income** technology workflows during the Morgan Stanley Spring Technology Programme
-- 💳 Examined payment validation, foreign-exchange controls and reporting pipelines during a Technology and Operations internship
+- 💳 Examined payment validation, foreign-exchange controls and reporting pipelines during a Technology and Operations internship at CB Bank PCL in Yangon
 - 🌍 Led a **five-person team** at the Microsoft EMBRACE Midlands Regional Hackathon
 - 📊 Analysed more than **220,000 rows** of commercial-pricing data during a Practera microplacement
 - 🏎️ Developed C++ path-tracking software for an autonomous Formula Student vehicle
@@ -163,6 +163,22 @@ Python application converting raw transactions into monthly Excel reports.
 
 </td>
 <td width="50%" valign="top">
+
+<tr>
+<td colspan="2" valign="top">
+
+### 📉 [Tesla & GameStop Stock–Revenue Analysis](https://github.com/freyabytes/stock-revenue-analysis)
+
+Built an end-to-end Python workflow comparing the market performance and quarterly revenues of **two publicly listed companies**.
+
+- Integrated **four financial datasets**: historical share prices and quarterly revenues for Tesla and GameStop
+- Combined **two collection methods**, retrieving market data through `yfinance` and scraping revenue tables with Requests and BeautifulSoup
+- Analysed Tesla stock data from **2010–2021** and GameStop stock data from **2002–2021**
+- Processed **seven market fields** including open, high, low, close, volume, dividends and stock splits
+- Cleaned and structured more than **110 quarterly revenue observations** using pandas and regular expressions
+- Produced **four visualisations** comparing share-price and revenue trends across both companies
+
+**Stack:** Python · Jupyter Notebook · pandas · yfinance · BeautifulSoup · Requests · Matplotlib · Regex
 
 ### 🛡️ SentinelPay | In Development
 
