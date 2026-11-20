@@ -34,33 +34,6 @@ I am particularly interested in how technology supports banks and financial mark
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Quick Snapshot
-
-- BSc Computer Science with AI
-- University of Nottingham
-- Predicted First-Class Honours
-- International Excellence Award
-- Originally from Myanmar
-- Based in the United Kingdom
-
-</td>
-<td width="50%" valign="top">
-
-### 🔭 Current Focus
-
-- Python and C++ development
-- Algorithms and system design
-- Banking and financial markets
-- Equities and Fixed Income
-- Financial data and automation
-- Commercial awareness
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
