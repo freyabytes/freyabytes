@@ -187,66 +187,6 @@ My strongest language is **Python**, which I use for data analysis, financial pr
 
 </div>
 
----
-
-## 🎯 Where I’m Heading
-
-I aim to build a career in **technology and engineering within banking and financial markets**, particularly across trading systems, payment infrastructure, financial data and intelligent automation.
-
-I am currently:
-
-- Strengthening my Python, C++ and system-design skills
-- Building commercial awareness across Equities, Fixed Income and payments
-- Exploring how technology, operations and risk interact within financial institutions
-
-My goal is to understand not only **how a system works**, but also **why the institution needs it, how it creates value and what risks it must control**.
-
----
-
-## 📜 Certifications and Programmes
-
-<details>
-<summary><strong>Click to view selected certifications</strong></summary>
-
-<br>
-
-### Finance and Business
-
-- **Introduction to Corporate Finance** — University of Pennsylvania
-- **Excel Skills for Business: Essentials** — Macquarie University
-- **Goldman Sachs Internal Audit Job Simulation** — Forage
-- **EY Technology Risk Job Simulation** — Forage
-- **EY Audit Job Simulation** — Forage
-
-### Data and Technology
-
-- **Python Project for Data Science** — IBM
-- **What Is Data Science?** — IBM
-- **Network Operations** — Google
-- **Network Architecture** — Google
-- **IBM Dev Day: AI Demystified**
-
-### Competitions and Programmes
-
-- **Microsoft EMBRACE Midlands Regional Hackathon**
-- **Practera Microplacement Project**
-- **Cambridge STEM Fair Gold Award**
-
-</details>
-
----
-
-## ✨ Beyond the Code
-
-- 💰 I am the **Treasurer of the University of Nottingham Robotics Society**, supporting budgeting, sponsorship and competition planning for more than **150 members**
-- 📊 I enjoy **mathematics, particularly statistics**, and using quantitative thinking to understand patterns and uncertainty
-- 🏸 Away from my laptop, I enjoy playing **badminton with my friends**, although friendly matches can become surprisingly competitive
-- 🤖 I enjoy combining software with robotics and practical engineering
-- 🌍 I speak **English, Burmese and intermediate Spanish**
-- 🐛 My debugging process begins with logic and occasionally ends with questioning reality
-
----
-
 <div align="center">
 
 <h2>🤝 Let’s Build Something Interesting</h2>
